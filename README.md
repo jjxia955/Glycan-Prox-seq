@@ -34,4 +34,4 @@ Email: jjxia@uchicago.edu
 
 Source data: All processed data supporting the findings of this study are provided with the manuscript.
 
-Raw sequencing data and processed h5ad file: Available at the Gene Expression Omnibus (GEO) under accession number GSEXXXXXX.
+Raw sequencing data and processed h5ad file: Available at the Gene Expression Omnibus (GEO) under accession number GSE307239.

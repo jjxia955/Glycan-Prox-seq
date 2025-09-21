@@ -1,5 +1,5 @@
 # Glycan-Prox-seq
-**Integrated profiling of proteins, glycans, protein-specific glycoforms, and mRNA in single cells with glycan proximity sequencing**
+**Single-cell measurement of glycoforms, proteins and mRNA reveals dynamic glycan remodeling during T cell differentiation**
 <div align="center">
   <img src="GPS_shceme.png" alt="GPS Scheme" width="600"/>
   <br>

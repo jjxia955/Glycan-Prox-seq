@@ -26,7 +26,7 @@ Email: jjxia@uchicago.edu
   - `Fig6_*.ipynb` — Glycosylation remodeling under external perturbation  
   - `Monocle_*.R` — trajectory inference with Monocle3  
   - `SingleR-based_annotation.R` — reference-based cell type annotation  
-- `*.csv` — partial processed data tables used for figure reproduction  
+- `source_data` — source data and processed data tables used for figure reproduction  
 
 ---
 

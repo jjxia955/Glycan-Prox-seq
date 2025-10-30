@@ -25,6 +25,15 @@ Email: jjxia@uchicago.edu
 | **Python** | 3.10.11 | `scanpy 1.9.3`, `numpy 1.25.2`, `pandas 2.3.0`, `matplotlib 3.10.3`, `seaborn 0.12.2`, `scikit-learn 1.3.0`, `gseapy 1.1.9` |
 | **R** | ≥ 4.2 | `Seurat_5.2.1`, `Monocle3_1.3.7`, `SingleR_2.6.0`, `ggplot2_3.5.1`|
 
+A complete environment configuration file (`GPS_environment.yml`) is provided for reproducibility.
+
+To create the environment:
+
+```bash
+conda env create -f GPS_environment.yml
+conda activate gps
+```
+
 ### Operating Systems Tested
 - macOS 13.7.8 (Ventura)  
 - Ubuntu 22.04 LTS  

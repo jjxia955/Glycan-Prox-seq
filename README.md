@@ -30,6 +30,31 @@ Email: jjxia@uchicago.edu
 
 ---
 
+---
+
+## 🖥️ System Requirements
+
+### Software Dependencies
+
+| Language | Version | Key Packages |
+|-----------|----------|--------------|
+| **Python** | 3.10.11 | `scanpy 1.9.3`, `numpy 1.25.2`, `pandas 2.3.0`, `matplotlib 3.10.3`, `seaborn 0.12.2`, `scikit-learn 1.3.0`, `gseapy 1.1.9` |
+| **R** | ≥ 4.2 | `Seurat_5.2.1`, `Monocle3_1.3.7`, `SingleR_2.6.0`, `ggplot2_3.5.1`|
+
+### Operating Systems Tested
+- macOS 13.7.8 (Ventura)  
+- Ubuntu 22.04 LTS  
+
+### Hardware Requirements
+- Standard desktop or laptop computer (≥ 8 GB RAM recommended)  
+- No GPU or non-standard hardware required  
+
+### Versions Tested
+- Python 3.10.11 (via Conda)  
+- R 4.4.1  
+- Tested on Apple M1 Pro
+---
+
 ## Data Availability
 
 Source data: All processed data supporting the findings of this study are provided with the manuscript.

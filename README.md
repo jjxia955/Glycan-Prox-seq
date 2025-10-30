@@ -39,6 +39,18 @@ Email: jjxia@uchicago.edu
 - Tested on Apple M1 Pro
 ---
 
+## 🧪 Demo
+
+A bulk GPS dataset and analysis notebook are provided to demonstrate the core steps of Glycan-Prox-seq data processing and visualization.
+
+### Input Files
+Demo data are located in source_data/Source Data Fig1.xlsx/Bulk GPS. This includes bulk GPS data from Expi293F WT and GnTI KO cells.
+
+### Demo notebook
+code_reproduce/Fig1.ipynb. This demo analysis shows how to calculate total protein abundance, glycan abundance, normalized protein-specific lectin contribution (glycosylation). 
+
+---
+
 ## 🧭 Instructions for Use
 
 ### Reproducing Published Results

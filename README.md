@@ -16,22 +16,6 @@ Email: jjxia@uchicago.edu
 
 ---
 
-## Repository Structure
-
-- `code_reproduce/` — Jupyter notebooks (`.ipynb`) and R scripts (`.R`) for reproducing figures  
-  - `Fig1.ipynb` — Bulk GPS assay on WT and GnTI knock-out Expi293F cell lines
-  - `Fig2.ipynb` — Single-cell plate-based GPS assay on Jurkat and Raji mixtures  
-  - `Fig3_*.ipynb` — 10x GPS assay on human PBMCs, including clustering and annotation, ADT/LDT profiles, NK subset analysis.
-  - `Fig4&5_pseudotime_analysis.ipynb` — pseudotime trajectory analysis on T cell populations
-  - `Fig6_*.ipynb` — Glycosylation remodeling under external perturbation  
-  - `Monocle_*.R` — trajectory inference with Monocle3  
-  - `SingleR-based_annotation.R` — reference-based cell type annotation  
-- `source_data/` — Source data and processed data tables used for figure reproduction  
-
----
-
----
-
 ## 🖥️ System Requirements
 
 ### Software Dependencies
@@ -53,6 +37,23 @@ Email: jjxia@uchicago.edu
 - Python 3.10.11 (via Conda)  
 - R 4.4.1  
 - Tested on Apple M1 Pro
+---
+
+## 🧭 Instructions for Use
+
+### Reproducing Published Results
+Each notebook or R script in the `code_reproduce/` directory corresponds to a figure in the manuscript. 
+
+- `code_reproduce/` — Jupyter notebooks (`.ipynb`) and R scripts (`.R`) for reproducing figures  
+  - `Fig1.ipynb` — Bulk GPS assay on WT and GnTI knock-out Expi293F cell lines
+  - `Fig2.ipynb` — Single-cell plate-based GPS assay on Jurkat and Raji mixtures  
+  - `Fig3_*.ipynb` — 10x GPS assay on human PBMCs, including clustering and annotation, ADT/LDT profiles, NK subset analysis.
+  - `Fig4&5_pseudotime_analysis.ipynb` — pseudotime trajectory analysis on T cell populations
+  - `Fig6_*.ipynb` — Glycosylation remodeling under external perturbation  
+  - `Monocle_*.R` — trajectory inference with Monocle3  
+  - `SingleR-based_annotation.R` — reference-based cell type annotation  
+- `source_data/` — Source data and processed data tables used for figure reproduction  
+
 ---
 
 ## Data Availability
